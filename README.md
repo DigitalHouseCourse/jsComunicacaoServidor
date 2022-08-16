@@ -1,7 +1,7 @@
 # jsComunicacaoServidor
 ## Sala 7
 ## Integrantes
-  - Alan Viera
+  - Alan Santana
   - Ariel Lisboa
   - Fabiana Sayuri
   - Laís Baltar
